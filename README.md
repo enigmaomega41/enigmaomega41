@@ -2,10 +2,8 @@
 
  <div>
    <a href="https://github.com/enigmaomega41">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=enigmaomega41
-&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enigmaomega41
-&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=enigmaomega41&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enigmaomega41&layout=compact&langs_count=6&theme=tokyonight"/>
 
 </div>
 <div style="display: inline_block"><br>
@@ -16,11 +14,12 @@
  
  <br>
  
+  ### Aprendiz na programação!!
  
 <div> 
+  <a href="https://instagram.com/codm_omega41/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
  
-  <a href="instagram.com/codm_omega41/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 
-  ![Snake animation](https://github.com/enigmaomega/enigmaomega/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/enigmaomega41/enigmaomega41/blob/output/github-contribution-grid-snake.svg)
 
 </div>
